@@ -24,8 +24,8 @@ I’m passionate about building clean, efficient, and impactful applications. I 
 
 ### Contact
 - GitHub: [@nice3667](https://github.com/nice3667)
-- Email: your.email@example.com
-- Portfolio: https://yourportfolio.com
+- Email: nicethitikorn.dev@gmail.com
+
 
 ### Status
 "Building useful things with code and curiosity."
